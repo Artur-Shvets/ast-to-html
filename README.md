@@ -1,2 +1,2 @@
 # JavaScript Parser
-https://artur-shvets.github.io/js-parser/
+https://artur-shvets.github.io/ast-to-html/
